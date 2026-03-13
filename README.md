@@ -10,6 +10,10 @@
 
 ---
 
+<img src="images/office_ai_studio.png" alt="Office AI Studio" width="800">
+
+---
+
 ## Overview
 
 Office workers spend hours on repetitive tasks: renaming files, extracting data from documents, summarising reports, turning meeting notes into action items. Office AI Studio automates all of this - with or without AI - from a single desktop app built on Python and Ollama.
